@@ -8,7 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import javax.annotation.PostConstruct;
 import java.util.List;
 
-@UIScope
 @SpringComponent
 public class TodoLayout extends VerticalLayout {
 
